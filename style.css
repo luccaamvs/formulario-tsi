@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    max-width: max-content;
+}
